@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 
-<img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" />
+<img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" />   
+<a href="https://www.hoyolab.com/article/19475534?utm_source=sns&utm_medium=link"><img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/b4a88ac82b95d56111f854cf40f2b32c_1647645067955024521.gif" width="40%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 <img src="https://hoyocard.qhy04.com/gs/9/263202450.png" alt="hoyo-card" />
 <img src="https://hoyocard.qhy04.com/sr/2/73223322.png" alt="hoyo-card" />
 <!--<img src="https://hoyocard.qhy04.com/zzz/0/73223322.png" alt="hoyo-card" />-->
