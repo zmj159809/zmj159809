@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![Genshin Stats](https://hoyocard.qhy04.com/gs/detail/9,40,53,56,57,58,62,64,78/182465392.png)](https://enka.network/u/160690769/)
 
 
-[![StarRail Stats](https://hoyocard.qhy04.com/sr/detail/2/73223322.png)](https://enka.network/hsr/101373476/)
+[![StarRail Stats](https://hoyocard.qhy04.com/sr/detail/1/73223322.png)](https://enka.network/hsr/101373476/)
 
 
 [![ZZZ Stats](https://hoyocard.qhy04.com/zzz/detail/0/73223322.png)](https://enka.network/zzz/17011865/)
