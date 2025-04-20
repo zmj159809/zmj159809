@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+
 
 
 <!--**zmj159809/zmj159809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +15,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  href="https://www.hoyolab.com/article/19475534?utm_source=sns&utm_medium=link"
+
+ 
+<img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" /> 崩三card
 -->
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 
+
 <a><img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/f47aa09543e2e9effb71e9570523afa2_4469488566839595911.gif" width="20%" title="芽衣真是太可爱了" align="right"></a>
 
-<img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" />  
+
+[![Honkai_3rd Stats](https://hoyocard.qhy04.com/hi3/detail/0/78119035.png)](https://enka.network/u/160690769/)
+
 
 <img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/b4a88ac82b95d56111f854cf40f2b32c_1647645067955024521.gif" width="20%" title="琪亚娜真是太可爱了" align="right">
 
-<img src="https://hoyocard.qhy04.com/gs/9/263202450.png" alt="hoyo-card" />
-<img src="https://hoyocard.qhy04.com/sr/2/73223322.png" alt="hoyo-card" />
+[![Genshin Stats](https://hoyocard.qhy04.com/gs/detail/9,40,53,56,57,58,62,64,78/182465392.png)](https://enka.network/u/160690769/)
 
-<!--<img src="https://hoyocard.qhy04.com/zzz/0/73223322.png" alt="hoyo-card" />-->
+
+[![StarRail Stats](https://hoyocard.qhy04.com/sr/detail/2/73223322.png)](https://enka.network/hsr/101373476/)
+
+
+[![ZZZ Stats](https://hoyocard.qhy04.com/zzz/detail/0/73223322.png)](https://enka.network/zzz/17011865/)
+
