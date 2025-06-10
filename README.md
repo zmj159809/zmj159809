@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" /> 崩三card
 -->
 
-![](https://raw.githubusercontent.com/zmj159809/zmj159809/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/zmj159809/zmj159809/blob/output/github-contribution-grid-snake.svg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 
