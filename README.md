@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" /> 崩三card
 -->
 
+![](https://raw.githubusercontent.com/zmj159809/zmj159809/main/assets/github-contribution-grid-snake.svg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 
-
+<!--
 <a><img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/f47aa09543e2e9effb71e9570523afa2_4469488566839595911.gif" width="20%" title="芽衣真是太可爱了" align="right"></a>
 
 
@@ -39,4 +40,6 @@ Here are some ideas to get you started:
 
 
 [![ZZZ Stats](https://hoyocard.qhy04.com/zzz/detail/0/73223322.png)](https://enka.network/zzz/17011865/)
+-->
+
 
