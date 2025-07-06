@@ -1,4 +1,4 @@
-name: generate animation
+name: github 贪吃蛇
 
 on:
   # run automatically every 24 hours
