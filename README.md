@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 
  
 <img src="https://hoyocard.qhy04.com/hi3/0/78119035.png" alt="hoyo-card" /> 崩三card
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 -->
 
 ![](https://github.com/zmj159809/zmj159809/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true" alt="Grease's Github Stats" />
 
-<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zmj159809&show_icons=true&count_private=true&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmj159809&locale=cn" />
+</a>
+
+
+<!-- 注释部分
 <a><img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/f47aa09543e2e9effb71e9570523afa2_4469488566839595911.gif" width="20%" title="芽衣真是太可爱了" align="right"></a>
 
 
